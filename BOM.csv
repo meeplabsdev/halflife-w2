@@ -1,2 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-Estimated total shipping,1,,,$0.00,
+Printed Case,1,JLC3DP,$8.81,$8.81,https://jlc3dp.com/
+M2.5 Bolts,1,Amazon,$8.77,$8.77,https://amzn.eu/d/05BtdnsA
+Estimated total shipping,1,,,$11.05,
